@@ -43,8 +43,9 @@ const FileInput = () => {
       </label>
       <p className="text-2xl flex flex-col pt-10">
         <div>Made By :</div> <div>Sarthak Sachdeva</div>
-        <div>Nithya Murali</div>
+        <div>Mehul Kumar</div>
         <div>Saransh Sinha</div>
+        <div>Aryan tanay</div>
       </p>
     </div>
   );
